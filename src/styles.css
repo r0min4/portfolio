@@ -1,11 +1,28 @@
 *{
     box-sizing: border-box;
 }
-body{
+
+.main{
     font-family: 'Itim', cursive;
+    margin: 25 auto;
+    text-align: center;
+    padding: 100px;
+    font-size: 35px;
+    font-weight: bold;
+}
+#user{
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    font-size: 90px;
 }
 
-h1{
-    font-weight: bold;
+#contact{
     font-family: 'Merriweather', serif;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 15px 30px;
 }
+#contact:hover{
+    color: black;
+}
+
