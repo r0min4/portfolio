@@ -1,6 +1,3 @@
-*{
-    box-sizing: border-box;
-}
 
 .main{
     font-family: 'Itim', cursive;
@@ -26,3 +23,43 @@
     color: black;
 }
 
+
+.part2{
+    font-family: 'Itim', cursive;
+}
+
+
+@media (max-width: 900px) {
+    h1 {
+      font-size: 44px;
+      line-height: 2;
+    }
+  
+    h2 {
+      font-size: 44px;
+    }
+  
+    .hero {
+      padding: 80px 20px;
+    }
+  
+    .project-desciption {
+      padding: 0;
+      text-align: center;
+    }
+  }
+
+  .btn-outline-primary {
+    
+    border-radius: 4px !important;
+    font-size: 18px !important;
+    line-height: 27px !important;
+    padding: 15px 30px !important;
+  }
+
+  .btn-outline-primary:hover{
+    background-color: white !important;
+    color: rgb(6, 6, 39) !important;
+  }
+
+  
