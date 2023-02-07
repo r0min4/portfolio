@@ -7,10 +7,31 @@
     font-size: 35px;
     font-weight: bold;
 }
+.container h1{
+  font-weight: bolder;
+  font-size: 70px;
+}
+.container h2{
+  font-weight: bolder;
+  font-size: 20px;
+}
+
 #user{
     font-family: 'Merriweather', serif;
     font-weight: bold;
     font-size: 90px;
+}
+.content{
+    font-family: 'Itim', cursive;
+    font-weight: lighter;
+    font-size: 23px;
+    margin-right: 40px;
+
+}
+.container{
+    padding: 50px;
+    font-family: "Playfair Display", serif;
+    font-weight: border;
 }
 
 #contact{
@@ -47,7 +68,26 @@
       padding: 0;
       text-align: center;
     }
-  }
+    .about-section {
+      text-align: center;
+      padding: 0;
+    }
+  
+   
+    }
+
+    .btn{
+      background-color: rgb(42, 42, 132) !important;
+      color: aliceblue !important;
+      border-radius: 4px !important;
+      font-size: 18px !important;
+      line-height: 27px !important;
+      padding: 15px 30px !important;
+    }
+
+    .btn:hover{
+      color: rgb(5, 5, 60) !important;
+    }
 
   .btn-outline-primary {
     
@@ -62,4 +102,3 @@
     color: rgb(6, 6, 39) !important;
   }
 
-  
