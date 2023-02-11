@@ -102,3 +102,12 @@
     color: rgb(6, 6, 39) !important;
   }
 
+
+  .content-container {
+    padding: 160px 20px;
+
+  }
+
+  .row p{
+    font-size: 18px;
+  }
