@@ -143,6 +143,12 @@ footer .social-links a:hover {
   background: rgba(0, 0, 255, 0.62);
 }
 
+.inputcontact{
+  border: 1px solid rgb(207, 202, 202);
+  padding: 10px;
+  
+}
+
 @media (max-width: 900px) {
 
 
