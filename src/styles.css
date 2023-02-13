@@ -7,11 +7,11 @@
     font-size: 35px;
     font-weight: bold;
 }
-.container h1{
+.about h1{
   font-weight: bolder;
   font-size: 70px;
 }
-.container h2{
+.about h2{
   font-weight: bolder;
   font-size: 20px;
 }
@@ -29,11 +29,18 @@
 
 }
 .container{
-    padding: 20px;
-    font-family: "Playfair Display", serif;
-    font-weight: border;
-    font-size: 20px;
+  padding: 20px;
+  font-family: "Playfair Display", serif;
+  font-size: 20px;
 }
+.about{
+    padding: 40px !important;
+    font-family: "Playfair Display", serif;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+
 
 #contact{
     font-family: 'Merriweather', serif;
@@ -57,6 +64,8 @@
 
 nav {
   padding: 20px 0;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 nav ul {
@@ -85,6 +94,8 @@ nav li.active a {
 footer {
   margin: 60px 0;
   padding: 60px;
+  font-family: "Playfair Display", serif;
+  /* font-family: 'Itim', cursive; */
   
 }
 
